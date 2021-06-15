@@ -13,3 +13,5 @@ function setPetNames(){
 
 setPetNames();
 console.log("outside the function : "+petname);
+
+console.log("This is the sample program for understanding 'let' variable");
